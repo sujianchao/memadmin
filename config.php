@@ -2,7 +2,7 @@
 if (!defined('IN_MADM')) exit();
 
 $config['user'] = "admin"; // your username
-$config['passwd'] = "123456"; // your password
+$config['passwd'] = "1"; // your password
 
 
 
